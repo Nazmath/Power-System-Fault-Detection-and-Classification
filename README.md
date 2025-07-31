@@ -88,7 +88,7 @@ Trained on a public dataset, the model helps automate fault detection and suppor
 
 ## 🙌 Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Nazmath Pasha](https://github.com/Nazmath)
 
 ---
 
